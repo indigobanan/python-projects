@@ -1,6 +1,4 @@
-#A programme for classifying people's ages - LIS1000S prac Question 3
-#by Hannah Groenewald
-#Student number: GRNHAN005
+#A programme for classifying people's ages 
 #date: 23 October 2025
 
 name = input ("Please provide your name -->")
@@ -23,4 +21,5 @@ elif age <= 64:
     print ("You are an adult.")
 else: 
     print("You are a pensioner.")
+
   
